@@ -8,11 +8,11 @@ Finding the cookies location is hard... this repository is a solution for that !
 1. Please fork the repository so that you can make a pull request easily
 
 2. Choose what will you want to contribute to this repository<br>
-	If you want to contribute guides for location that did not exist yet, please follow [Contributing New Location Guide](#contribute-new-location-guide).
+	If you want to contribute guides for location that did not exist yet, please follow [Contributing New Location Guide](#contributing-new-location-guide).
 
-	If you want to contribute into existing location guides, please follow [Contributing Existing Location Guide](#contribute-existing-location-guide).
+	If you want to contribute into existing location guides, please follow [Contributing Existing Location Guide](#contributing-existing-location-guide).
 
-	If you want to contribute to something else outside of the location guide, please follow [Contributing Other](#contribute-other).
+	If you want to contribute to something else outside of the location guide, please follow [Contributing Other](#contributing-other).
 
 ----
 
